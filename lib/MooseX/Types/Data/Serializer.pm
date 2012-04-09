@@ -1,6 +1,6 @@
 package MooseX::Types::Data::Serializer;
 {
-  $MooseX::Types::Data::Serializer::VERSION = '0.01';
+  $MooseX::Types::Data::Serializer::VERSION = '0.02';
 }
 use strict;
 use warnings;
@@ -114,3 +114,14 @@ if ( !$@ ) {
 }
 
 1;
+__END__
+
+=head1 AUTHOR
+
+Aran Clary Deltac <bluefeet@gmail.com>
+
+=head1 LICENSE
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+

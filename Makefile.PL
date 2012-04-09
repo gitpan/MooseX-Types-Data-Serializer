@@ -25,7 +25,7 @@ my %WriteMakefileArgs = (
     "Data::Serializer" => "0.54",
     "Moose" => "1.23"
   },
-  "VERSION" => "0.01",
+  "VERSION" => "0.02",
   "test" => {
     "TESTS" => "t/*.t"
   }
